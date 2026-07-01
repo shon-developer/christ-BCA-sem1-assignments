@@ -14,6 +14,9 @@ This project demonstrates the use of:
 
 ---
 
+## output
+![ss](./ss.png)
+
 ## 🏗 Layout Structure
 
 The webpage consists of the following sections:
@@ -73,18 +76,7 @@ Blog-Layout/
 
 ---
 
-## 🎨 Color Scheme
 
-| Element | Color |
-|---------|-------|
-| Header | Red |
-| Navigation | Sky Blue |
-| Section | Yellow |
-| Aside | Pink |
-| Article | Orange |
-| Footer | Gray |
-
----
 
 ## ⚙ Features
 
@@ -143,33 +135,6 @@ These tags improve:
 }
 ```
 
----
-
-## ▶ Running the Project
-
-1. Download the project files.
-2. Open the project folder.
-3. Double-click `index.html`
-
-or
-
-Open with **VS Code** and run using **Live Server**.
-
----
-
-## 📷 Preview
-
-```text
-Header
-Navigation
-
-Section    Aside
-Article    Aside
-
-Footer
-```
-
----
 
 ## 🧑‍💻 Author
 

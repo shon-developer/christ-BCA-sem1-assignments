@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Dancing+Script:wght@400..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #111111;
+  color: white;
+}
+
+.heading {
+  text-align: center;
+  padding: 30px;
+  font-family: "Black Ops One", system-ui;
+  font-size: 50px;
+  color: cyan;
+}
+
+.section {
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 100px;
+  display: flex;
+  gap: 25px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  width: 250px;
+  height: 400px;
+  background-color: #0091ff;
+}
+
+.img {
+  width: 250px;
+}
+
+.product-title {
+  background-color: #0091ff;
+  font-family: "Roboto", sans-serif;
+  padding: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.description {
+  background-color: #0091ff;
+  font-family: "Dancing Script", cursive;
+  padding: 10px;
+  font-size: 22px;
+}
